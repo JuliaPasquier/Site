@@ -21,7 +21,7 @@
   display: none;
 }
 .header ul {
-  display: block;
+  display: flex;
   gap: 30px;
 }
 li {
